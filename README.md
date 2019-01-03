@@ -1,1 +1,1 @@
-This is the book store.
+This is a book store.
